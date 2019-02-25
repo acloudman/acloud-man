@@ -2,7 +2,7 @@
 layout: post
 title:  "No Regrets!!"
 date:   2019-02-25 12:00:00 +0530
-categories: cloud-man update
+categories: post
 ---
 ## Python articles personal collections
 

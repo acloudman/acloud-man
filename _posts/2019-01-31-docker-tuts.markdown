@@ -2,7 +2,7 @@
 layout: post
 title:  "Docker Tutorial"
 date:   2019-01-31 01:00:00 +0530
-categories: cloud-man blog
+categories: post
 ---
 
 ## Definition of: Docker
